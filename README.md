@@ -1,6 +1,5 @@
 # STUDENT MANAGEMENT SYSTEM USING PYTHON & MySQL
-  In this Student Management System Project in python, we will see a project that manages all the information of the students.  
-It includes managing data such as ID, Name, Phone No., Email, Address, Gender and Date of Birth.  We will build a GUI-based Student Management System Project using the Python - datetime module, Tkinter, messagebox, filedialog and Ttk modules of the Tkinter library combined with MySQL. 
+In this Student Management System Project in python, we will see a project that manages all the information of the students. It includes managing data such as ID, Name, Phone No., Email, Address, Gender and Date of Birth.  We will build a GUI-based Student Management System Project using the Python datetime, messagebox, filedialog and Ttk modules of the Tkinter library combined with MySQL. 
 
 # Tools/Technologies used:
 1. Python - Pycharm
